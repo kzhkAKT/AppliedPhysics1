@@ -1,6 +1,10 @@
 # AppliedPhysics1
 
+応用物理１の講義資料です。
+
+<!--
 2020年9月2日
+
 
 講義資料が置かれているサイトの仕様変更があったため、  
 条件によっては資料(Google Colabobatory)が直接開けない場合があります。
@@ -57,4 +61,4 @@
 [シラバス 3C](https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=08&department_id=11&subject_id=0049&year=2018&lang=ja)
 
 [シラバス 3B](https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus?school_id=08&department_id=11&subject_id=0048&year=2018&lang=ja)
-
+-->
