@@ -59,3 +59,10 @@
 - [2550_光の散乱_応用物理1.ipynb](https://colab.research.google.com/github/kzhkAKT/AppliedPhysics1/blob/main/2550_%E5%85%89%E3%81%AE%E6%95%A3%E4%B9%B1_%E5%BF%9C%E7%94%A8%E7%89%A9%E7%90%861.ipynb)
 - [2560_レーザー_応用物理1.ipynb](https://colab.research.google.com/github/kzhkAKT/AppliedPhysics1/blob/main/2560_%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC_%E5%BF%9C%E7%94%A8%E7%89%A9%E7%90%861.ipynb)
 - [5000波動現象の復習.ipynb](https://colab.research.google.com/github/kzhkAKT/AppliedPhysics1/blob/main/5000%E6%B3%A2%E5%8B%95%E7%8F%BE%E8%B1%A1%E3%81%AE%E5%BE%A9%E7%BF%92.ipynb)
+
+<!--
+for ipynb in *.ipynb
+do   encoded_name=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1]))" "$ipynb")
+echo "- [$ipynb](https://colab.research.google.com/github/kzhkAKT/AppliedPhysics1/blob/main/$encoded_name)"
+done
+ -->
